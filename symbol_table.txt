@@ -1,0 +1,17 @@
+
+ -------SymbTable in level 0 ---------
+i:  integer  varkind  Level = 0  Offset = 0  dir  
+j:  integer  varkind  Level = 0  Offset = 1  dir  
+num:  integer  varkind  Level = 0  Offset = 2  dir  
+a:  array  varkind  Level = 0  Offset = 3  dir  
+c:  char  varkind  Level = 0  Offset = 23  dir  
+q:  funckind  Level = 1  Noff = 31
+
+ -------SymbTable in level 1 ---------
+num:  integer  varkind  Level = 1  Offset = 24  indir  
+i:  integer  varkind  Level = 1  Offset = 25  dir  
+j:  integer  varkind  Level = 1  Offset = 26  dir  
+k:  integer  varkind  Level = 1  Offset = 27  dir  
+t:  integer  varkind  Level = 1  Offset = 28  dir  
+temp:  integer  varkind  Level = 1  Offset = 29  dir  
+c:  char  varkind  Level = 1  Offset = 30  dir  

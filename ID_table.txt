@@ -1,0 +1,11 @@
+bubble
+i
+j
+num
+a
+c
+q
+k
+t
+temp
+b
